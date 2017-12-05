@@ -2,3 +2,5 @@ build/
 .gradle
 /.nb-gradle/
 Verkkokauppa1/private/
+Verkkokauppa1/.nb-gradle/
+/Laskin/.nb-gradle/
